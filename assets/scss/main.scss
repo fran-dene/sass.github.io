@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+$font-family-base: 'Comfortaa', cursive;
+
+@import "./scss/bootstrap.scss";
+
+.style_position{
+    margin: auto;
+}
+
+.style_position{
+    margin: auto;
+}
+
+.card{
+    @extend .style_position;
+}
